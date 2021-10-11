@@ -1,5 +1,8 @@
 # Test the WordPress introductory book.  
 
+**Demo**  
+[https://springdale.sakura.ne.jp/wp2/](https://springdale.sakura.ne.jp/wp2/)  
+
 reference  
 
 **知識ゼロからはじめる WordPressの教科書**  
